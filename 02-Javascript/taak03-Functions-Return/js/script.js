@@ -1,4 +1,11 @@
-function geefRandomGetalTerug(){                
+
+
+    
+
+function geefRandomGetalTerug(){  
+
+document.getElementById("demo").innerHTML = Math.random();   
+    
     
 }
 
